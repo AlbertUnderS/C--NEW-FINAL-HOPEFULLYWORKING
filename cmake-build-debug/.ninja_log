@@ -1,13 +1,9 @@
 # ninja log v6
-11	879	7789773888386036	CMakeFiles/untitled4.dir/main.cpp.obj	1f3267bf0aaf8e2e
-7	317	7789774702860129	build.ninja	ef40ffc70265870a
-3	281	7789774702860129	build.ninja	ef40ffc70265870a
-34	838	7789774703822865	CMakeFiles/untitled4.dir/Customer.cpp.obj	efb160fcd6e4ecbd
-838	979	7789774711861188	untitled4.exe	1f151aaa9b73fecf
-7	829	7789778502020919	CMakeFiles/untitled4.dir/main.cpp.obj	1f3267bf0aaf8e2e
-829	974	7789778510239775	untitled4.exe	1f151aaa9b73fecf
-13	852	7789781756667259	CMakeFiles/untitled4.dir/Customer.cpp.obj	efb160fcd6e4ecbd
-7	1041	7789781756606749	CMakeFiles/untitled4.dir/main.cpp.obj	1f3267bf0aaf8e2e
-1041	1201	7789781766948887	untitled4.exe	1f151aaa9b73fecf
 5	1115	7789783152067694	CMakeFiles/untitled4.dir/main.cpp.obj	1f3267bf0aaf8e2e
+3	281	7789785810539604	build.ninja	ef40ffc70265870a
+13	852	7789781756667259	CMakeFiles/untitled4.dir/Customer.cpp.obj	efb160fcd6e4ecbd
 1115	1287	7789783163167333	untitled4.exe	1f151aaa9b73fecf
+3	280	7789785810539604	build.ninja	ef40ffc70265870a
+25	834	7789785811408034	CMakeFiles/untitled4.dir/Customer_Management_System/Customer.cpp.obj	aecb9f380f2c10b6
+22	1023	7789785811378111	CMakeFiles/untitled4.dir/Customer_Management_System/main.cpp.obj	b50ce4286fb096b5
+1023	1182	7789785821394733	untitled4.exe	3e1503038dd061d6

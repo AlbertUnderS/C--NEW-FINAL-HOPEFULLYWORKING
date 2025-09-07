@@ -49,17 +49,17 @@ cmake_ninja_workdir = C$:/Users/arago/CLionProjects/untitled4/cmake-build-debug/
 
 build cmake_object_order_depends_target_untitled4: phony || .
 
-build CMakeFiles/untitled4.dir/main.cpp.obj: CXX_COMPILER__untitled4_unscanned_Debug C$:/Users/arago/CLionProjects/untitled4/main.cpp || cmake_object_order_depends_target_untitled4
-  DEP_FILE = CMakeFiles\untitled4.dir\main.cpp.obj.d
+build CMakeFiles/untitled4.dir/Customer_Management_System/main.cpp.obj: CXX_COMPILER__untitled4_unscanned_Debug C$:/Users/arago/CLionProjects/untitled4/Customer$ Management$ System/main.cpp || cmake_object_order_depends_target_untitled4
+  DEP_FILE = CMakeFiles\untitled4.dir\Customer_Management_System\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled4.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled4.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled4.dir\Customer_Management_System
 
-build CMakeFiles/untitled4.dir/Customer.cpp.obj: CXX_COMPILER__untitled4_unscanned_Debug C$:/Users/arago/CLionProjects/untitled4/Customer.cpp || cmake_object_order_depends_target_untitled4
-  DEP_FILE = CMakeFiles\untitled4.dir\Customer.cpp.obj.d
+build CMakeFiles/untitled4.dir/Customer_Management_System/Customer.cpp.obj: CXX_COMPILER__untitled4_unscanned_Debug C$:/Users/arago/CLionProjects/untitled4/Customer$ Management$ System/Customer.cpp || cmake_object_order_depends_target_untitled4
+  DEP_FILE = CMakeFiles\untitled4.dir\Customer_Management_System\Customer.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled4.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled4.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled4.dir\Customer_Management_System
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/untitled4.dir/Customer.cpp.obj: CXX_COMPILER__untitled4_unscann
 #############################################
 # Link the executable untitled4.exe
 
-build untitled4.exe: CXX_EXECUTABLE_LINKER__untitled4_Debug CMakeFiles/untitled4.dir/main.cpp.obj CMakeFiles/untitled4.dir/Customer.cpp.obj
+build untitled4.exe: CXX_EXECUTABLE_LINKER__untitled4_Debug CMakeFiles/untitled4.dir/Customer_Management_System/main.cpp.obj CMakeFiles/untitled4.dir/Customer_Management_System/Customer.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled4.dir

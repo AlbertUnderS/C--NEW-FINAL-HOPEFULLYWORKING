@@ -3,5 +3,5 @@ project(untitled4)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(untitled4 main.cpp Customer.cpp)
+add_executable(untitled4 "Customer Management System/main.cpp" "Customer Management System/Customer.cpp")
 
